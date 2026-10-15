@@ -14,7 +14,7 @@ check, because the symptom is always the same.
 | Records with a NULL state | Match no filter at all; count them explicitly |
 | `apiSlug` collision across workspaces | Agent reads or writes another project's tracker |
 | Monitoring script counting only ToDo + In Progress | Backlog and Triage piles stay invisible to the supervisor too |
-| An agent's own queue query is wrong, so it reports "no queue" | Count by the `agents` relation from the supervisor's side; six routed items, "idle" reported |
+| An agent's own queue query is wrong, so it reports "no queue" | Count by the `agents` relation from the supervisor's side. Observed: "idle" reported with 26 items routed. The relation filter wants `op: has` with an **array** of ids; `eq` or a bare id is rejected, and a script that swallows the error reads it as empty |
 
 ## Routing
 

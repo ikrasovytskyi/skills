@@ -96,6 +96,7 @@ wrong answer that looked right.
   write is rejected. An item that moves design → build is re-routed by the owner
   when the design is posted. Decide that at provisioning, or design items stall
   with the designer.
+- **Filter the queue with `{field: "agents", op: "has", value: [<agent id>]}`**, an array. `eq` and a bare id are rejected; a loop that treats the error as an empty result reports an idle agent with a full queue.
 - **A title written on create is occasionally dropped.** Re-read the record and
   check the title is non-empty after every create.
 - **Via MCP, set operators on a workflow field may fail validation.** An `or`
