@@ -13,6 +13,7 @@ argument-hint: "<brand or project name>"
 metadata:
   version: "1.0.0"
   category: orchestration
+license: CC-BY-4.0 (see LICENSE). Author: Ievgen Krasovytskyi, linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi
 ---
 
 # Marketing agent fleet — entry point

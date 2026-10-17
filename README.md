@@ -1,5 +1,7 @@
 # Agent-team skills
 
+By **Ievgen Krasovytskyi** · [LinkedIn](https://www.linkedin.com/in/krasovytskyi/) · [GitHub](https://github.com/ikrasovytskyi)
+
 Skills for running real work with a **team of named AI agents**. Each agent is its own Claude Code session, with its own queue, a lane it owns, things it must never touch, and a validator who checks its work before anything reaches the world.
 
 This is the method behind the agent team that builds [StoryOS](https://storyos.dev): ten agents across API, web, docs, design, product and validation, with StoryOS itself as the queue. Every rule in these files comes from a specific failure, and the failure is written next to the rule.
@@ -38,3 +40,19 @@ Keep the folders whole: several skills read files from each other's `references/
 
 - Not a framework. There is no code to run; these are instructions an agent follows.
 - Not finished. There is no operations profile yet, and the method has mostly been exercised on one engineering fleet and one content fleet. If something fails for you, the failure catalogue in `agent-fleet-operate` is the place it belongs: open an issue.
+
+## Author
+
+Written by **Ievgen Krasovytskyi**, founder of [StoryOS](https://storyos.dev), from running the agent team that builds it.
+
+- LinkedIn: [linkedin.com/in/krasovytskyi](https://www.linkedin.com/in/krasovytskyi/)
+- GitHub: [@ikrasovytskyi](https://github.com/ikrasovytskyi)
+
+## License
+
+[CC BY 4.0](LICENSE). Use them, adapt them and share them, commercially too, as long as you give credit. A credit line that works:
+
+> Agent-team skills by Ievgen Krasovytskyi ([LinkedIn](https://www.linkedin.com/in/krasovytskyi/) · [GitHub](https://github.com/ikrasovytskyi/skills)), CC BY 4.0.
+
+If you post about using them, tag Ievgen on LinkedIn.
+

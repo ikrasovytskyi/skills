@@ -12,6 +12,7 @@ metadata:
   version: "2.0.0"
   category: orchestration
   phase: "3 of 4 — launch"
+license: CC-BY-4.0 (see LICENSE). Author: Ievgen Krasovytskyi, linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi
 ---
 
 # Agent fleet — launch
