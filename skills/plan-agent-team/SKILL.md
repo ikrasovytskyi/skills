@@ -13,7 +13,8 @@ metadata:
   version: "1.0.0"
   category: orchestration
   phase: "0 of 4 — plan"
-license: CC-BY-4.0 (see LICENSE). Author: Ievgen Krasovytskyi, linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi
+license: CC-BY-4.0
+author: "Ievgen Krasovytskyi (linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi)"
 ---
 
 # Plan an agent team

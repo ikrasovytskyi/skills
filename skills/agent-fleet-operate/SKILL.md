@@ -13,7 +13,8 @@ metadata:
   version: "2.1.0"
   category: orchestration
   phase: "4 of 4 — operate"
-license: CC-BY-4.0 (see LICENSE). Author: Ievgen Krasovytskyi, linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi
+license: CC-BY-4.0
+author: "Ievgen Krasovytskyi (linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi)"
 ---
 
 # Agent fleet — operate

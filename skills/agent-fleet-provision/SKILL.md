@@ -13,7 +13,8 @@ metadata:
   version: "2.0.0"
   category: orchestration
   phase: "2 of 4 — provision"
-license: CC-BY-4.0 (see LICENSE). Author: Ievgen Krasovytskyi, linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi
+license: CC-BY-4.0
+author: "Ievgen Krasovytskyi (linkedin.com/in/krasovytskyi, github.com/ikrasovytskyi)"
 ---
 
 # Agent fleet — provision the infrastructure
